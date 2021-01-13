@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on c++
 - 🌱 I’m currently learning ...
