@@ -55,16 +55,16 @@
   &nbsp;
   &nbsp;
   
-  <a title="Twitter" href="https://twitter.com/yaduvanshi777">
+  <a title="Twitter" href="https://twitter.com/Vyaduvanshi03">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-64.png" width="50" height="50" />
   </a>
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" alt="yaduvanshi777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yaduvanshi777&show_icons=true&hide_border=true" />
 </p>
-
+ -->
 <p align="center">
     <img align="center" alt="yaduvanshi777's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduvanshi777" />
 </p>
